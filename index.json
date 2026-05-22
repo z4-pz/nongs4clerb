@@ -1,24 +1,20 @@
 {
   "manifest": 1,
-  "name": "nongs4clerb",
-  "id": "nongs4clerb-nong-index",
-  "description": "test",
-  "lastUpdate": 1779437909,
-  "links": {},
-  "features": {},
+  "name": "N4C Index",
+  "id": "nongs4clerb-index",
+  "description": "Nongs/Mashups from myshxllo's clerb!!",
+  "lastUpdate": 1700000000,
+  "features": {
+    "submit": {
+      "supportedSongTypes": ["hosted"]
+    }
+  },
   "nongs": {
-    "youtube": {},
     "hosted": {
       "4d67f36c-1f10-4e31-b0da-a9f03e126f01": {
         "name": "Sweater Weather x Ride or Die",
         "artist": "Tatox3_",
         "startOffset": 0,
-        "url": "https://raw.githubusercontent.com/z4-pz/nongs4clerb/main/sweater%20weather%20ride%20or%20die.mp3",
-        "songs": [
-          1004589
-        ],
-        "verifiedLevelIDs": []
-      }
-    }
-  }
-}
+        "url": "https://raw.githubusercontent.com/z4-pz/nongs4clerb/refs/heads/main/.songs/sweater%20weather%20ride%20or%20die.mp3",
+        "songs": [1004589]
+      },
