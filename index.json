@@ -2,10 +2,11 @@
   {
     "name": "Sweater Weather x Ride or Die",
     "artist": "The Neighborhood",
-    "source": "direct",
-    "yt-id": "https://github.com/z4-pz/nongs4clerb/raw/refs/heads/main/sweater%20weather%20ride%20or%20die.mp3",
+    "source": "host",
+    "url": "https://github.com/z4-pz/nongs4clerb/raw/refs/heads/main/sweater%20weather%20ride%20or%20die.mp3",
     "startOffset": 0,
-    "songs": [1004589],
-    "verifiedLevelIDs":
-  }
+    "songs": [
+      1004589
+    ]
+  },
 ]
