@@ -7,7 +7,9 @@ nongs from myshxllo's clerb!! ig...
 
 
 copy+paste this; 
+
 ' https://raw.githubusercontent.com/z4-pz/nongs4clerb/refs/heads/main/index.json '
+
 in jukebox settings
 
 then restart your game
